@@ -10,7 +10,6 @@
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ZAQU3O&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-ZAQU3O.vercel.app/api/top-langs/?username=ZAQU3O&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
