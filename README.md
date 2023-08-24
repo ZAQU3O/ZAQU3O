@@ -1,6 +1,8 @@
 ### Olá! Sou Zaqueu Soares. Seja Bem vindo ao meu perfil no GitHub!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZAQUE3O)](https://github.com/ZAQU3O/github-readme-stats)
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
