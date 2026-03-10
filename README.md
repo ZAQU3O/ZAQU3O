@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="#pt-br">PT-BR</a> | <a href="#english">EN</a>
-</p>
-
-### Olá! Sou Zaqueu Soares. Seja bem-vindo ao meu perfil no GitHub!
+<h3 align="center">Olá! Sou Zaqueu Soares. Seja bem-vindo ao meu perfil no GitHub!</h3>
 
 <p align="center">
 Usar a mente e a tecnologia para resolver problemas não é só um hobby para mim.<br>
@@ -20,9 +16,7 @@ Usar a mente e a tecnologia para resolver problemas não é só um hobby para mi
 
 ---
 
-<a id="pt-br"></a>
-
-## PT-BR
+## Sobre Mim
 
 ### Habilidades
 
@@ -70,64 +64,6 @@ Tecnologias baseadas nos meus projetos publicados.
 - [picpay-desafio-backend](https://github.com/ZAQU3O/picpay-desafio-backend): desafio técnico com foco em backend.
 
 ### Contato
-
-<div>
-  <a href="mailto:zaqueusoares4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/zqueeusoares/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
----
-
-<a id="english"></a>
-
-## English
-
-### Skills
-
-Technologies based on my published projects.
-
-#### Main Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-#### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-#### Front-end and Interface
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)&nbsp;
-
-#### Workstation Tools
-
-![VS Code](https://img.shields.io/badge/VS%20Code-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-
-### Current Learning Focus
-
-- Data structures and OOP with Java
-- Automation and ETL with Python
-- API development and backend logic
-- SQL, relational modeling, and NoSQL fundamentals
-
-### Featured Projects
-
-- [etl_com_python](https://github.com/ZAQU3O/etl_com_python): ETL pipeline built with Python.
-- [campo-minado-2](https://github.com/ZAQU3O/campo-minado-2): logic and OOP practice using Java.
-- [youtube-to-mp3](https://github.com/ZAQU3O/youtube-to-mp3): automation and processing with JavaScript.
-- [meu-portfolio](https://github.com/ZAQU3O/meu-portfolio): web interface built with HTML and CSS.
-- [picpay-desafio-backend](https://github.com/ZAQU3O/picpay-desafio-backend): backend-oriented technical challenge.
-
-### Contact
 
 <div>
   <a href="mailto:zaqueusoares4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
