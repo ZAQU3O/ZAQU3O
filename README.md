@@ -6,7 +6,7 @@ Usar a mente e a tecnologia para resolver problemas não é só um hobby para mi
 </p>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZAQU3O&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAQU3O&layout=compact&theme=transparent"/>
 </div>
 
